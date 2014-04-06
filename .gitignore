@@ -1,1 +1,6 @@
-iso
+*.sw?
+.bundle/
+.DS_Store
+box/
+iso/
+vendor/bundle/
